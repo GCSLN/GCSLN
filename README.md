@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sri Lakshmi Narayana G C
-- 👀 I’m interested in Web-Development and Electronics
-- 🌱 I’m currently learning back-end web development
+- 👀 Aspiring Data Scientist and Web Development
+
 
 <!---
 GCSLN/GCSLN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
